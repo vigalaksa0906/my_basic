@@ -41,4 +41,4 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = MyClient(intents=intents)
-client.run('MTEwNDczMjAwMTc3ODUzMjQ1Mg.G8_sBP.ui0NmutxhEQK-qZ5up7S1_ClYtVDkIB_96ySOM')
+client.run('TOKEN WILL BE HERE')
