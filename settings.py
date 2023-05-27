@@ -1,4 +1,4 @@
 settings = {
     "prefix": ">",
-    "TOKEN": "TOKEN WILL BE HERE"
+    "TOKEN": "MASUKKAN TOKEN KAMU DI SINI"
 }
